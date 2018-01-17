@@ -100,10 +100,6 @@ export default class List extends Component {
 
         return (
             <div className="col-md-12">
-                <div className="alert alert-error">
-                    <button type="button" className="close" data-dismiss="alert">&times;</button>
-                    <strong>Warning!</strong> Best check yo self, you're not looking too good.
-                </div>
                 <table className="table">
                     <thead>
                         <tr style={{ backgroundColor: '#007bff', color: "#fff" }} >
